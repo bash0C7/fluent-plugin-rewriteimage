@@ -18,7 +18,7 @@ RSpec.configure do |config|
   require 'fluent/load'
   require 'fluent/test'
 
-  require 'fluent/plugin/out_idobata'
+  require 'fluent/plugin/out_rewriteimage'
 
   require 'pry'
   require 'rr'
