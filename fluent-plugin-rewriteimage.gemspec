@@ -7,8 +7,8 @@ Gem::Specification.new do |spec|
   spec.version       = '0.0.1'
   spec.authors       = ["bash0C7"]
   spec.email         = ["koshiba+github@4038nullpointer.com"]
-  spec.description   = ""
-  spec.summary       = ""
+  spec.description   = "Output filter plugin to rewrite messages from image path(or URL) string to image data."
+  spec.summary       = "Output filter plugin to rewrite messages from image path(or URL) string to image data."
   spec.homepage      = "https://github.com/bash0C7/fluent-plugin-rewriteimage"
   spec.license       = "Ruby's"
 
