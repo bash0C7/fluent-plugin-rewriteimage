@@ -1,4 +1,4 @@
-# fluent-plugin-rewriteimage
+# fluent-plugin-rewriteimage, a plugin for [Fluentd](http://fluentd.org)
 
 ## Output
 
